@@ -1,0 +1,28 @@
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+#darthvader {
+    font-size: 20px;
+}
+
+#lukeskywalker {
+    font-style: italic;
+}
+
+.soldados {
+    border: 1px solid #000;
+    letter-spacing: 0.5cap
+}
+
+.unidades {
+    text-align: center;
+}
+
+.naves {
+    text-transform: uppercase;
+}
